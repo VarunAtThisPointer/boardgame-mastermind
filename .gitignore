@@ -1,0 +1,11 @@
+.*.swp
+*.o
+*.log
+release
+.make-*
+.prerequisites
+*.dSYM
+Makefile.dep
+**/.DS_Store
+*.o
+bin/mastermind
